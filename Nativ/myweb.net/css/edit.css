@@ -1,0 +1,48 @@
+
+nav{
+	background-color: #333;
+}
+nav a{
+	text-decoration: none;
+	color: #fff;
+	font-size: 16px;
+	font-family: "Spartan", sans-serif;
+}
+
+a:hover	{
+	color:#AEAEAE;
+	font-size: 16px;
+}
+.navbar-nav{
+	padding-left: 1px;
+}
+.jumbotron{
+	background-image: url("../img/bg.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-color: rgb(0,0,0);
+	background-blend-mode: color-dodge;
+	color: #fff;
+	height: 600px;	
+}
+.jumbotron h1{
+	padding-top: 100px;
+	padding-bottom: 0px;
+	font-family: "Spartan", sans-serif;
+	font-size: 100px;
+	text-align: left; 
+}
+.jumbotron p{
+	margin-top: -100px;
+	margin-left: 350px;
+	text-align: left;
+	font-size: 70px;
+	color: #044AB3;
+	font-family: 'Kaushan Script', cursive;
+  	webkit-transform: rotate(-10deg);
+  	moz-transform: rotate(-10deg);
+  	ms-transform: rotate(-10deg);
+  	o-transform: rotate(-10deg);
+  	transform: rotate(-10deg);
+}

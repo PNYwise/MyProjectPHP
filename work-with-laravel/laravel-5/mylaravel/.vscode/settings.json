@@ -1,0 +1,7 @@
+{
+    "html.format.contentUnformatted": "pre,code,textarea",
+    "html.format.extraLiners": "",
+    "html.format.indentInnerHtml": true,
+    "editor.fontSize": 15,
+    "html.format.enable": false
+}
