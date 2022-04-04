@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1921.999" height="1203.467" viewBox="0 0 1921.999 1203.467">
+    <defs>
+        <linearGradient id="cncxoqy8la" x1=".195" y1="1.338" x2=".78" y2="2.083" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#fec711"/>
+            <stop offset="1" stop-color="#e0bd13"/>
+        </linearGradient>
+    </defs>
+    <g data-name="Group 3401">
+        <g data-name="Group 1753">
+            <path data-name="Union 9" d="M-16019.844-2565.531c-2.625-213.107-.086-456.45.844-690.359v-258.853q-.275-48.808-.844-95.888c.272 1.026.555 2.078.844 3.146v-86.315c51.869-20.079 128.285-40.359 216-26.067 50.5 8.236 73.641 22.854 127.5 38.329 98.738 28.367 179.309 24.7 250.5 21.467 152.635-6.945 254.925-57.957 340.6-79.251s100.975-38.883 244.782-24.35 283.359 175.5 740.619 69.873v884.358h-.814c.271 82.325.542 164.093.814 243.913z" transform="translate(16020.999 3768.998)" style="fill:url(#cncxoqy8la)"/>
+        </g>
+    </g>
+</svg>

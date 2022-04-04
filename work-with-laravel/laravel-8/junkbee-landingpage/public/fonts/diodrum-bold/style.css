@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Diodrum-bold';
+    src: local('Diodrum  Bold'), local('Diodrum--Bold'),
+        url('DiodrumCyrillic-Bold.woff2') format('woff2'),
+        url('DiodrumCyrillic-Bold.woff') format('woff'),
+        url('DiodrumCyrillic-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+  }

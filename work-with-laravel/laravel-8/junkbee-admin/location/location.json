@@ -1,0 +1,20 @@
+[
+     {
+          "beever_id": 8,
+          "lat": -6.9704465,
+          "lng": 110.4250938,
+          "status": "ready"
+     },
+     {
+          "beever_id": 11,
+          "lat": "-6.9920352",
+          "lng": "110.4059907",
+          "status": "ready"
+     },
+     {
+          "beever_id": 9,
+          "lat": "-6.9920352",
+          "lng": "110.4059907",
+          "status": "ready"
+     }
+]
